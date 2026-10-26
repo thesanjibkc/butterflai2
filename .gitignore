@@ -36,3 +36,6 @@ data/derived/
 # NOTE: unlike ButterflAI 1.0, this file does NOT blanket-ignore *.csv,
 # *.npz, *.json, *.txt or *.png. Blanket rules silently hid requirements.txt
 # and the data files in 1.0. Ignore specific folders instead.
+
+# local virtual environment
+.venv-butterflai2/
