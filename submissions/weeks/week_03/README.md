@@ -1,3 +1,6 @@
+> **Submission:** `03_latent_belt.ipynb` (Tasks 20–31) + `vocal_handoff.md`.  
+> **AI assistance:** task code was written with help from ChatGPT and Claude (Claude provided Task 20 and most of Task 21). Details are in the session notes of `vocal_handoff.md`.
+
 # Week 03 — From rate to magnetic field, and from 1D to 2D
 
 **Phase A — Classical**

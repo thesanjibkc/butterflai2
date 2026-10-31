@@ -1,3 +1,5 @@
+> **Submission:** `01_counting_process.ipynb` + `vocal_handoff.md` (tutor prompt: `vocal_prompt_week01.md`).
+
 # Week 01 — The butterfly as a counting process
 
 **Phase A — Classical**
