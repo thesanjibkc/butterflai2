@@ -1,3 +1,6 @@
+> **Submission:** `02_rate_1d.ipynb` (Tasks 10–19) + `vocal_handoff.md`.  
+> **AI assistance:** the code for Tasks 10–19 was written by Claude, with line-by-line comments, after a tutor session (see `vocal_handoff.md`). I reviewed it and ran the notebook end to end.
+
 # Week 02 — Fitting the emergence rate in 1D
 
 **Phase A — Classical**
